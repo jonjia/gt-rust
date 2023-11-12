@@ -1,5 +1,6 @@
 [workspace]
-
+resolver = "2"
 members = [
-  "httpie",
+  "04_httpie",
+  "05_thumbor",
 ]
