@@ -3,4 +3,6 @@ resolver = "2"
 members = [
   "04_httpie",
   "05_thumbor",
+  "06_queryer",
+  "06_queryer_js",
 ]
